@@ -1,9 +1,9 @@
 
   <img src="https://k.top4top.io/p_2306syous1.png" alt="A8TOOL BETA">
   # Info
-  A8Tool - Web Hacking Tool
-  By <a href="https://www.tiktok.com/@ds.8mqk">Ale/8mqk</a> and <a href="https://www.tiktok.com/@mr.9oqm">mr.9oqm/Azahar</a>
-  Version: beta
+  <p>A8Tool - Web Hacking Tool</p>
+  <p>By <a href="https://www.tiktok.com/@ds.8mqk">Ale/8mqk</a> and <a href="https://www.tiktok.com/@mr.9oqm">mr.9oqm/Azahar</a></p>
+  <p>Version: beta</p>
   # Tutorial
   <ul>
     <li>1 Download zip</li>
