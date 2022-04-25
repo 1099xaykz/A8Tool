@@ -1,4 +1,4 @@
-<center>
+
   <img src="https://k.top4top.io/p_2306syous1.png" alt="A8TOOL BETA">
   # Info
   A8Tool - Web Hacking Tool
@@ -13,4 +13,4 @@
   </ul>
   # Download
   <a href="https://top4top.io/del03373fff314543673b286536ee2c8d57.html">Download</a>
-<center>
+
