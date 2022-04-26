@@ -12,5 +12,5 @@
     <li>4 python3 main.py</li>
   </ul>
   <h1>Download</h1>
-  <p><a href="https://top4top.io/del03373fff314543673b286536ee2c8d57.html">Download</a></p>
+  <p><a href="https://top4top.io/downloadf-2307irnvn1-rar.html">Download</a></p>
 
